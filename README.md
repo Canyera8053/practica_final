@@ -33,4 +33,4 @@ Las contribuciones son bienvenidas. Si tiene alguna sugerencia o mejora para est
 Esta solicitud está licenciada bajo la [Licena del MIT] (LICENSE).
 
 #url internet
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b9097225-43eb-4fbc-9142-9eabce7d7d16/deploy-status)](https://app.netlify.com/sites/practica-final/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9097225-43eb-4fbc-9142-9eabce7d7d16/deploy-status)](https://practica-final.netlify.com)
