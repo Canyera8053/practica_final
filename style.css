@@ -1,0 +1,47 @@
+.container {
+  padding: 50px;
+  font-family: helvetica;
+  display: flex;
+  flex-direction: column;
+}
+
+section {
+
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+section article {
+  border: 2px solid red;
+  border-radius: 10px;
+  width: 350px;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.negativo {
+  color: red;
+}
+
+.positivo {
+  color: green;
+}
+
+#tutor{
+  border: 2px solid red;
+}
+
+body{
+  background-color: rgb(239, 193, 152);
+}
